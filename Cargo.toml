@@ -12,6 +12,7 @@ version = "0.2.2"
 readme = "README.md"
 
 [dependencies]
+trait_tests="0.3"
 
 [features]
 default = ["std"]
